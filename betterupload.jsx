@@ -2,8 +2,8 @@
  * @name betterupload V4.0.2
  * @version 1.0.0
  * @invite dd054d8
- * @website https://github.com/Artificial86/BD-plugin/edit/main/MultiUploads.plugin.js
- * @source https://github.com/Artificial86/BD-plugin/edit/main/MultiUploads.plugin.js
+ * @website https://github.com/Artificial86/BD-plugin-file/edit/main/betterupload.jsx
+ * @source https://github.com/Artificial86/BD-plugin-file/edit/main/betterupload.jsx
  */
 /* Setup */
 const config = {
